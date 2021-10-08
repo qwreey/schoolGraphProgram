@@ -1,0 +1,4 @@
+(abs(x) <= 1.5) and (-abs(x)) or nil,
+(abs(x) <= 0.5 or (abs(x) >= 1.1 and abs(x) <= 1.6)) and -abs(x)*2.3 + 2.4 or nil,
+((x >= -2 and x <= -0.5) or (x <= 2 and x >= 0.5)) and 1.2 or nil,
+(abs(x) >= 1.1 and abs(x) <= 1.9) and abs(x)*1.1 - 1 or nil
