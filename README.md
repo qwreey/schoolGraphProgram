@@ -1,3 +1,5 @@
+> 이 저장소는 Oct 8 Fri, 2021 기준으로 완성되었습니다
+
 # school_graphProgram
 학교 정보시간 과제입니다
 
