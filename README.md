@@ -1,8 +1,8 @@
 > 이 저장소는 Oct 8 Fri, 2021 기준으로 완성되었습니다
 
-# TITLE
-목적 : 터미널, 수학함수를 통한 그림(?) 그리기
-사용언어 : lua (with luv / luajit)
+> TL; DR
+목적 : 터미널, 수학함수를 통한 그림 그리기  
+사용언어 : lua (with luv / luajit)  
 
 # school_graphProgram
 학교 정보시간 과제입니다 +a 대회 출전 작품입니다
