@@ -1,1 +1,1 @@
-app/deps/** linguist-detectable=false
+app/deps/**/*.lua linguist-detectable=false
